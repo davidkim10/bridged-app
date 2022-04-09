@@ -12,7 +12,7 @@
     "clipboard": "^2.0.4",
     "jquery": "^3.5.1",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "^15.7.0",
     "react-dom": "^15.7.0",
